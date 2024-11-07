@@ -20,7 +20,7 @@
 
 2. **安装用户脚本**：单击以下链接以安装用户脚本：
 
-   [**安装 PERPLEXITY-FULL-SCREEN 用户脚本**](
+   [**安装 PERPLEXITY-FULL-SCREEN 用户脚本**](https://greasyfork.org/zh-CN/scripts/516259-perplexity-full-screen)
 
 ## 使用方法
 
